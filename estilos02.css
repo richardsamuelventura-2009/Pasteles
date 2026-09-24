@@ -41,7 +41,8 @@ nav a{
 	margin: 25px auto;
 }
 .imagen-chocolate img{
-width: 300px;
+max-width: 500px;
+width: 100%;
 height: auto;
 display: block;
 margin: 0 auto;
