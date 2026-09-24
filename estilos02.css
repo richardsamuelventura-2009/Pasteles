@@ -41,10 +41,10 @@ nav a{
 	margin: 25px auto;
 }
 .imagen-chocolate img{
-	width: 100%;
-	max-width: 600px;
-	height:  auto;
-	border-radius: 10px;
+width: 300px;
+height: auto;
+display: block;
+margin: 0 auto;
 }
 .ingredientes{
 	background-color: white;
