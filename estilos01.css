@@ -136,6 +136,37 @@ footer {
         margin: 10px;
     }
 }
-
-
-
+.carrito{
+    width: 90%;
+    margin: 30px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    text-align: center;
+}
+.carrito h2{
+    color: #176b4d;
+}
+.btn-carrito{
+    background-color: limegreen;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.btn-carrito:hover{
+    background-color: mediumseagreen;
+}
+#btn-vaciar{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#btn-vaciar:hover{
+    background-color: darkred;
+}
